@@ -1,7 +1,7 @@
 {
-  "name": "game_of_life",
+  "name": "conways-game-of-life-vue",
   "version": "1.0.0",
-  "description": "Conway's Game of Life",
+  "description": "Conway's Game of Life in VUE",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open"
