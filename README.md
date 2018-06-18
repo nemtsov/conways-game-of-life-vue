@@ -1,4 +1,4 @@
-# Conway's Game of Live in VUE
+# Conway's Game of Life in VUE
 
 `npm install && npm start`
 
