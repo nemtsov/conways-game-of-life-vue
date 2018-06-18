@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "vue": "^2.5.16"
+    "vue": "^2.5.16",
+    "vuex": "^3.0.1"
   },
   "devDependencies": {
     "css-loader": "^0.28.11",

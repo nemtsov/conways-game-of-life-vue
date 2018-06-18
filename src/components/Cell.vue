@@ -16,14 +16,14 @@ export default {
 
 <style module>
 .cell {
-  border: 1px solid #ddd;
+  border: 1px solid #d0cfd6;
   cursor: pointer;
   height: 15px;
   width: 15px;
-  transition: background-color 0.5s ease;
 }
 
 .cellAlive {
-  background: black;
+  border-color: #414350;
+  background: #121744;
 }
 </style>
