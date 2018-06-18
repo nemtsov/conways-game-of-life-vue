@@ -1,12 +1,11 @@
 {
   "name": "game_of_life",
   "version": "1.0.0",
-  "description": "",
+  "description": "Conway's Game of Life",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open"
   },
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "vue": "^2.5.16",
